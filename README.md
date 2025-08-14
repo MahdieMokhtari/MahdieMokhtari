@@ -1,16 +1,12 @@
-## Hi there 👋
+## About Mahdieh: 
 
-<!--
-**MahdieMokhtari/MahdieMokhtari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi
+- 🐍 I’m currently learning and working on phyton
+- 🧠 I’m looking to collaborate on: phyton developement, web design, project management
+- 📖 Ask me about everything and i can help you as much as you need 
+- 🔗 You can contact me through the Telegram, GitHub, and Instagram links attached on my page
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Socials:
+https://instagram.com/mahdieh_mo_
+https://www.linkedin.com/in/mahdieh-mokhtari-60836b279
+https://t.me/MahdieMokhtarii
