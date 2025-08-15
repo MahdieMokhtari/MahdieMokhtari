@@ -1,5 +1,3 @@
-## About Mahdieh: 
-
 # 💫 About Me:
 🐍 I’m currently learning and working on phyton<br>🧠 I’m looking to collaborate on: phyton developement, web design, project management<br>📖 Ask me about everything and i can help you as much as you need<br>🔗 You can contact me through the Telegram, GitHub, and Instagram links attached on my page
 
@@ -19,3 +17,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MahdieMokhtari&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MahdieMokhtari&icon=0&color=0)](https://visitcount.itsvg.in)
