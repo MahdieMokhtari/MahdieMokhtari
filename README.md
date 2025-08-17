@@ -1,10 +1,8 @@
-💻 **Junior Python Developer** | 🎓 **Computer Engineering Student**  
-
-I'm passionate about **building practical solutions**, exploring **Python’s ecosystem**, and writing **clean & efficient code**.  
-I believe in **continuous learning**, teamwork, and turning ideas into working projects.
+💻 **Junior Python Developer** | 🎓 **Computer Engineering Student** 
 
 # 💫 About Me:
-🐍 I’m currently learning and working on phyton<br>🧠 I’m looking to collaborate on: phyton developement, web design, project management<br>📖 Ask me about everything and i can help you as much as you need<br>🔗 You can contact me through the Telegram, GitHub, and Instagram links attached on my page
+🐍 I’m currently learning and working on phyton<br>🧠 I’m looking to collaborate on: phyton developement, web design, project management<br>📖 Ask me about everything and i can help you as much as you need<br>🔗 You can contact me through the Telegram, GitHub, and Instagram links attached on my page<br> I'm passionate about **building practical solutions**, exploring **Python’s ecosystem**, and writing **clean & efficient code**.  
+I believe in **continuous learning**, teamwork, and turning ideas into working projects.
 
 
 ## 🌐 Socials:
